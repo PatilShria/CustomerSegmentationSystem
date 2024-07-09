@@ -7,7 +7,7 @@ The process involves:-
 1. Understanding the data.
 2. Using the elbow approach to determine the ideal number of clusters.
 3. Training a model using an unsupervised learning technique.
-4. displaying clusters.
+4. Displaying clusters.
 
 
 Result:
